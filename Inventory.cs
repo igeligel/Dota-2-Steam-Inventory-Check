@@ -1,5 +1,5 @@
 ﻿using Newtonsoft.Json;
-using SteamBotV2.SerializationClasses;
+using Dota2SteamInvCheck.SerializationClasses;
 using System;
 using System.Collections.Generic;
 using System.IO;
