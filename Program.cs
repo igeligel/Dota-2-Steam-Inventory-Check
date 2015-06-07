@@ -4,9 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using SteamBotV2.Dota2LoungeAPI;
-
-namespace SteamBotV2
+namespace Dota2SteamInvCheck
 {
     class Program
     {

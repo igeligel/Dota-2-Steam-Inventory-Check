@@ -6,7 +6,7 @@ using System.IO;
 using System.Net;
 using System.Web;
 
-namespace SteamBotV2
+namespace Dota2SteamInvCheck
 {
     /// <summary>
     ///     Inventory Class to save a inventory

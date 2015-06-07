@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SteamBotV2.SerializationClasses
+namespace Dota2SteamInvCheck.SerializationClasses
 {
     public class SeriGetInventory
     {
